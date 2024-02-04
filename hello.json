@@ -1,0 +1,21 @@
+{
+  "$jason": {
+    "body": {
+      "background": {
+        "type": "html",
+        "url": "https://seora-26107.bubbleapps.io",
+        "style": {
+          "background": "#ffffff",
+          "progress" : "rgba (0,0,0,0)"
+        },
+        "action": {
+          "type": "$default"
+        }
+      }
+    }
+  }
+}
+
+
+
+
